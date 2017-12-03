@@ -1,0 +1,4 @@
+appdirs==1.4.3
+packaging==16.8
+python-ldap==2.4.38
+six==1.10.0
